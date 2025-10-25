@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Point to the sitemap for search engines
+Sitemap: https://nik2neo.github.io/jn-technologies-website/sitemap.xml
