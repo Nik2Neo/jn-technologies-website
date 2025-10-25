@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
+  <title>JN Technologies Logo</title>
+  <!-- Simple stacked squares to resemble a cube -->
+  <rect x="15" y="20" width="60" height="60" fill="#1f3a93" rx="4" />
+  <rect x="25" y="10" width="60" height="60" fill="#5a2a83" rx="4" opacity="0.8" />
+</svg>
